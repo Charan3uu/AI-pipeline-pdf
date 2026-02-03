@@ -1,0 +1,8 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# PDFs & outputs
+*.pdf
+storage/
